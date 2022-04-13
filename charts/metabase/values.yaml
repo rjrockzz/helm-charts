@@ -18,7 +18,7 @@ image:
 
 # Config Jetty web server
 listen:
-  host: "0.0.0.0"
+  host: "18.142.64.67"
   port: 3000
 ssl:
   # If you have an ssl certificate and would prefer to have Metabase run over HTTPS
